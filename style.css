@@ -1,0 +1,32 @@
+.obox{
+    border: solid 8px;
+    height: 1000px;
+    background-image: url(bg2.jpeg);
+    background-repeat: no-repeat;
+    background-size: 2000px 1000px;
+}
+#KF{
+    color: black;
+    font-size: 100px;
+    text-align: center;
+   
+}
+#Register,#login{
+    height: 60px;
+    width: 200px;
+    background-color: aquamarine;
+}
+#Register{
+    margin-left: 700px;
+}
+#Register a,#login a{
+    color: navy;
+    font-size: 20px;
+    text-decoration: none;
+    font-weight: bold;
+}
+#Register:hover{
+    background-color: plum;
+}
+#login:hover{
+    background-color: peachpuff;
